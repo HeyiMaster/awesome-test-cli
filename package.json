@@ -1,0 +1,40 @@
+{
+  "name": "awesome-test-cli",
+  "version": "1.0.0",
+  "description": "合一带大家开发脚手架工具",
+  "main": "index.js",
+  "bin": {
+    "awesome-test": "bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scaffold",
+    "efficient",
+    "react"
+  ],
+  "author": "walker",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.0",
+    "download-git-repo": "^2.0.0",
+    "execa": "^2.0.4",
+    "fs-extra": "^8.1.0",
+    "import-global": "^0.1.0",
+    "inquirer": "^6.5.1",
+    "lru-cache": "^5.1.1",
+    "minimist": "^1.2.0",
+    "nunjucks": "^3.2.0",
+    "ora": "^3.4.0",
+    "request-promise-native": "^1.0.7",
+    "semver": "^6.3.0",
+    "string.prototype.padstart": "^3.0.0",
+    "valid-filename": "^3.1.0",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
