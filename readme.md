@@ -20,3 +20,5 @@ awesome-test create project-name
 ```bash
 awesome-test page page-name
 ```
+
+QQ交流群：![](./IMG_4546.JPG)
